@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "9a7b",
+      "cityName": "rhode island",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-23T16:33:08.957Z",
+      "notes": "",
+      "position": {
+        "lat": "41.68111756290652",
+        "lng": "-71.60888671875001"
+      }
+    },
+    {
+      "id": "9f4c",
+      "cityName": "America/New_York",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-23T18:59:28.565Z",
+      "notes": "",
+      "position": {
+        "lat": "41.11246878918088",
+        "lng": "-69.87304687500001"
+      }
+    }
+  ]
+}
